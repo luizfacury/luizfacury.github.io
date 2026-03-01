@@ -3,8 +3,6 @@ layout: default
 title: "Luiz Facury | AI Researcher & MSc Student"
 ---
 
-# Luiz Facury
-
 ## About
 
 I'm a first-year MSc student at the Federal University of Minas Gerais, Brazil. My interests and current research involve self-supervised learning, world models, reinforcement learning, image matching, and energy-based models.
