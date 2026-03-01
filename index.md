@@ -18,7 +18,7 @@ I completed my undergraduate degree in electrical engineering at the Federal Uni
      
 2. [Curved Spaces, Enhanced Diagnosis: Hyperbolic Neural Networks for Multi-label ECG Classification](https://cinc.org/archives/2025/pdf/CinC2025-444.pdf) \
         Pedro Dutenhefner, Diogo Tuler, Turi Rezende, José Fernandes, **Luiz Facury**, Luísa Porfírio, Yan Aquino, Arthur Buzelin, Pedro Bento, Gabriela Piaxão, Gisele Pappa, Antonio Ribeiro Wagner Jr.\
-    *Computing in Cardiology (CinC), 2025
+    *Computing in Cardiology (CinC), 2025*
 
 2. [Clinically Interpretable Zero-Shot ECG Classification via Multimodal Learning and Expert-Aligned Descriptors](https://cinc.org/archives/2025/pdf/CinC2025-379.pdf)\
      **Luiz Facury de Souza**, Jose Fernandes, Pedro Dutenhefner, Turi Rezende, Gisele Pappa, Gabriela Paixão, Antonio Ribeiro Wagner Jr.\
