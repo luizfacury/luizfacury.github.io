@@ -15,6 +15,7 @@ I completed my undergraduate degree in electrical engineering at the Federal Uni
 1. [Transfering Clinical Knowledge into ECGs Representation: A Self-Supervised Approach for Interpretable, Unimodal-at-Inference Diagnosis](https://openreview.net/forum?id=Ns4nSGM3Q1) \
      Jose Fernandes, **Luiz Facury de Souza**, Pedro Dutenhefner, Gisele Pappa, Wagner Meira Jr.\
      *TS4H @ NeurIPS 2025*
+     
 2. [Curved Spaces, Enhanced Diagnosis: Hyperbolic Neural Networks for Multi-label ECG Classification](https://cinc.org/archives/2025/pdf/CinC2025-444.pdf) \
         Pedro Dutenhefner, Diogo Tuler, Turi Rezende, José Fernandes, **Luiz Facury**, Luísa Porfírio, Yan Aquino, Arthur Buzelin, Pedro Bento, Gabriela Piaxão, Gisele Pappa, Antonio Ribeiro Wagner Jr.\
     *Computing in Cardiology (CinC), 2025
