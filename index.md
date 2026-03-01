@@ -1,21 +1,24 @@
 ---
 layout: default
+title: "Luiz Facury | AI Researcher & MSc Student"
 ---
 
-# About
+# Luiz Facury
+
+## About
 
 I'm a first-year MSc student at the Federal University of Minas Gerais, Brazil. My interests and current research involve self-supervised learning, world models, reinforcement learning, image matching, and energy-based models.
 
 I completed my undergraduate degree in electrical engineering at the Federal University of Minas Gerais. Through a two-year double degree program, I also earned a French engineering degree (Diplôme d'Ingénieur) from Télécom Paris (Institut Polytechnique de Paris). I have conducted research in many laboratories and recently completed a six-month internship at Philips in Paris, where I worked on self-supervised learning for EEG signal processing.
 
 
-# Publications
+## Publications
 
 1. [Transfering Clinical Knowledge into ECGs Representation: A Self-Supervised Approach for Interpretable, Unimodal-at-Inference Diagnosis] \
      Jose Fernandes, **Luiz Facury de Souza**, Pedro Dutenhefner, Gisele Pappa, Wagner Meira Jr.\
      *TS4H @ NeurIPS 2025*
 
-2. [Bridging the Gap in Clinical AI: Zero-Shot Multimodal ECG Analysis with Textual Explanations](https://icml.cc/virtual/2025/46745)\
+2. [Bridging th e Gap in Clinical AI: Zero-Shot Multimodal ECG Analysis with Textual Explanations](https://icml.cc/virtual/2025/46745)\
      **Luiz Facury de Souza**, Jose Fernandes, Pedro Dutenhefner, Turi Rezende, Gisele Pappa, Gabriela Paixão, Antonio Ribeiro Wagner Jr.\
     *LXAI @ ICML 2025* (Selected for oral presentation)
 

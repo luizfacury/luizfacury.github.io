@@ -1,6 +1,7 @@
 remote_theme: BDHU/minimalist
 
-title: Luiz F. Souza
+title: Luiz Facury
+description: "Personal website, research, and projects of Luiz Facury."
 theme: jekyll-theme-minimal
 
 email: luizfysouza@gmail.com
@@ -14,10 +15,8 @@ sass:
   sass_dir: assets/css
   style: compressed
 
-
-logo: pic_cropped.jpg
-
-
+logo:
+  pic_cropped.jpg
 
   # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
@@ -26,22 +25,24 @@ sidebar:
     link: https://scholar.google.com/citations?user=VORIhEAAAAAJ&hl=en
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/luizfysouza
+    link: https://github.com/luizfacury
   - name: Twitter
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none"><path d="M23.643 4.937c-.835.37-1.732.62-2.675.733a4.67 4.67 0 0 0 2.048-2.578a9.3 9.3 0 0 1-2.958 1.13a4.66 4.66 0 0 0-7.938 4.25a13.229 13.229 0 0 1-9.602-4.868c-.4.69-.63 1.49-.63 2.342A4.66 4.66 0 0 0 3.96 9.824a4.647 4.647 0 0 1-2.11-.583v.06a4.66 4.66 0 0 0 3.737 4.568a4.692 4.692 0 0 1-2.104.08a4.661 4.661 0 0 0 4.352 3.234a9.348 9.348 0 0 1-5.786 1.995a9.5 9.5 0 0 1-1.112-.065a13.175 13.175 0 0 0 7.14 2.093c8.57 0 13.255-7.098 13.255-13.254c0-.2-.005-.402-.014-.602a9.47 9.47 0 0 0 2.323-2.41l.002-.003z" fill="currentColor"/></g></svg>
     link: https://x.com/luizfysouza
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
-    link: https://www.linkedin.com/in/luizfysouza/
+    link: https://www.linkedin.com/in/luizfacury/
   - name: CV
     icon: <i class="fa-solid fa-file"></i>
-    link: https://raw.githubusercontent.com/luizfysouza/luizfysouza.github.io/master/CV_Luiz.pdf
+    link: https://raw.githubusercontent.com/luizfacury/luizfacury.github.io/master/CV_Luiz.pdf
 
   # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
   # When running locally, we run into the following error —
   # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
   # adding this avoids it
-github: [metadata]
+github:
+  [metadata]
 
   # The text in the footer of the site
-footer_text: "© 2025 Luiz Souza"
+footer_text: "© 2025 Luiz Facury"
+
