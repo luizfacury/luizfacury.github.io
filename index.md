@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Luiz Facury | AI Researcher & MSc Student"
 ---
 
 ## About
