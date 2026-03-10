@@ -15,7 +15,7 @@ I completed my undergraduate degree in electrical engineering at the Federal Uni
      *2nd Workshop on World Models @ ICLR 2026*
 
 2. [Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs](https://openreview.net/forum?id=lh5WrQtoc2&referrer=%5Bthe%20profile%20of%20Luiz%20Facury%20de%20Souza%5D(%2Fprofile%3Fid%3D~Luiz_Facury_de_Souza1)) \
-     **Luiz Facury**, Jose Fernandes, Pedro Dutenhefner, Gisele Pappa, Wagner Meira Jr.\
+     Jose Fernandes, **Luiz Facury**, Pedro Dutenhefner, Gisele Pappa, Wagner Meira Jr.\
      *2nd Workshop on World Models @ ICLR 2026*
 
 3. [Transfering Clinical Knowledge into ECGs Representation: A Self-Supervised Approach for Interpretable, Unimodal-at-Inference Diagnosis](https://openreview.net/forum?id=Ns4nSGM3Q1) \
