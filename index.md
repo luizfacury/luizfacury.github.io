@@ -8,8 +8,8 @@ I'm a second-year MSc student at UFMG, Brazil, supervised by [Wagner Meira Jr.](
 
 I also collaborate with [Randall Balestriero](https://randallbalestriero.github.io/\) on his stable family repositories (worldmodel, datasets, pretraining), JEPA architectures, and world models more broadly. I believe research should be open source, and that SSL and reward-free methods are the right path toward better generalization and transfer for world models.
 
-Outside of work, I'm really into cinema — French Nouvelle Vague and Japanese film in particular — and literature, especially art criticism and essays (Sontag, Barthes, etc.). If you want to talk movies, find me on [Letterboxd](https://letterboxd.com/luizfysouza/\).
-Beyond that, I like cooking, photography, traveling, and follow volleyball (althought I don't play). I've also been following One Piece weekly since 2013, so it's been a long journey.
+Outside of work, I'm really into cinema — French Nouvelle Vague and Japanese film in particular — and literature, especially art criticism and essays (Sontag, Barthes, etc.). If you want to talk movies, find me on [Letterboxd](https://letterboxd.com/luizfysouza/).
+Beyond that, I like cooking, photography, traveling, and follow volleyball (although I don't play). I've also been reading One Piece weekly since 2013, so it's been a long journey.
 
 
 
