@@ -7,7 +7,8 @@ image: /pic_cropped.jpg
   <div class="hero-copy">
     <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> Machine learning researcher · UFMG</p>
     <h1 id="intro-title">Luiz Facury</h1>
-    <p class="hero-intro">I’m an MSc student in Computer Science at UFMG. My research focuses on self-supervised learning, joint-embedding predictive architectures (JEPAs), and world models.</p>
+    <p class="hero-intro">I’m an MSc student in Computer Science at UFMG, supervised by <a href="https://scholar.google.com/citations?user=oad6_oEAAAAJ&amp;hl=en">Wagner Meira Jr.</a> I work on self-supervised learning, joint-embedding predictive architectures (JEPAs), and world models.</p>
+    <p class="hero-intro">I also work with <a href="https://randallbalestriero.github.io/">Randall Balestriero</a> on the stable family of open-source repositories, JEPA architectures, and world models more broadly.</p>
     <div class="hero-actions">
       <a class="button button-primary" href="#publications">Publications <span aria-hidden="true">↘</span></a>
       <a class="text-link" href="{{ '/CV_Luiz.pdf' | relative_url }}">View CV <span class="file-label">PDF</span> <span aria-hidden="true">↗</span></a>
