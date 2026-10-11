@@ -21,7 +21,6 @@ image: /pic_cropped.jpg
   </div>
   <figure class="portrait">
     <div class="portrait-frame"><img src="{{ '/pic.jpg' | relative_url }}" alt="Luiz Facury" width="2656" height="2496" fetchpriority="high"></div>
-    <figcaption>Belo Horizonte, Brazil</figcaption>
   </figure>
 </section>
 
@@ -92,9 +91,8 @@ image: /pic_cropped.jpg
   <div class="section-label"><span class="section-number">04</span><h2 id="about-title">Beyond research</h2></div>
   <div class="about-content">
     <div class="about-copy">
-      <p>I enjoy cinema, particularly the French New Wave and Japanese film, as well as literature, art criticism, and essays by Susan Sontag and Roland Barthes.</p>
-      <p>I also like cooking, photography, and traveling. I follow volleyball and have been reading <em>One Piece</em> weekly since 2013.</p>
-      <a class="text-link" href="https://letterboxd.com/luizfysouza/">Letterboxd <span aria-hidden="true">↗</span></a>
+      <p>Outside of work, I'm really into cinema — French Nouvelle Vague and Japanese film in particular — and literature, especially art criticism and essays (Sontag, Barthes, etc.). If you want to talk movies, find me on <a href="https://letterboxd.com/luizfysouza/">Letterboxd</a>.</p>
+      <p>Beyond that, I like cooking, photography, and traveling. I've also been reading One Piece weekly since 2013, so it's been a long journey.</p>
     </div>
   </div>
 </section>
