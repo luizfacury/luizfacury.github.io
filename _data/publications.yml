@@ -1,0 +1,76 @@
+- title: "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation"
+  year: 2026
+  venue: "NeurIPS 2026"
+  authors: "Lucas Maes*, Quentin Le Lidec*, <strong>Luiz Facury</strong>, Nassim Massaudi, Ayush Chaurasia, Francesco Capuano, Richard Gao, Taj Gillin, Dan Haramati, Damien Scieur, Yann LeCun, Randall Balestriero"
+  url: "https://arxiv.org/abs/2605.21800"
+  selected: true
+  note: "Poster"
+  description: "* Equal contribution."
+  links:
+    - label: "Code"
+      url: "https://github.com/galilai-group/stable-worldmodel"
+
+- title: "Learning Navigable World Models via Latent Energy Shaping"
+  year: 2026
+  venue: "World Models Workshop @ ICLR 2026"
+  authors: "<strong>Luiz Facury</strong>, Jose Geraldo Fernandes, Pedro Dutenhefner, Gisele L. Pappa, Wagner Meira Jr."
+  url: "https://openreview.net/forum?id=fnLHZcXZUW"
+  selected: true
+
+- title: "Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs"
+  year: 2026
+  venue: "World Models Workshop @ ICLR 2026"
+  authors: "Jose Geraldo Fernandes, <strong>Luiz Facury</strong>, Pedro Dutenhefner, Gisele L. Pappa, Wagner Meira Jr."
+  url: "https://openreview.net/forum?id=lh5WrQtoc2"
+  selected: true
+
+- title: "Clinically Interpretable Zero-Shot ECG Classification via Multimodal Learning and Expert-Aligned Descriptors"
+  year: 2025
+  venue: "Computing in Cardiology 2025"
+  authors: "<strong>Luiz Facury de Souza</strong>, Jose Geraldo Fernandes, Pedro Robles Dutenhefner, Turi Andrade Rezende, Gisele L. Pappa, Gabriela Miana Paixão, Antonio Luiz Pinho Ribeiro, Wagner Meira Jr."
+  url: "https://cinc.org/archives/2025/pdf/CinC2025-379.pdf"
+  selected: true
+  note: "Workshop version: LXAI @ ICML 2025 · Oral"
+  description: "The workshop version appeared as ‘Bridging the Gap in Clinical AI: Zero-Shot Multimodal ECG Analysis with Textual Explanations’."
+
+- title: "Transferring Clinical Knowledge into ECGs Representation: A Self-Supervised Approach for Interpretable, Unimodal-at-Inference Diagnosis"
+  year: 2025
+  venue: "Time Series for Health Workshop @ NeurIPS 2025"
+  authors: "Jose Geraldo Fernandes, <strong>Luiz Facury de Souza</strong>, Pedro Dutenhefner, Gisele L. Pappa, Wagner Meira Jr."
+  url: "https://openreview.net/forum?id=Ns4nSGM3Q1"
+  selected: false
+
+- title: "Curved Spaces, Enhanced Diagnosis: Hyperbolic Neural Networks for Multi-Label ECG Classification"
+  year: 2025
+  venue: "Computing in Cardiology 2025"
+  authors: "Pedro Dutenhefner, Diogo Tuler, Turi Rezende, Jose Fernandes, <strong>Luiz Facury</strong>, Luísa Porfírio, Yan Aquino, Arthur Buzelin, Pedro Bento, Gabriela Paixão, Gisele L. Pappa, Antonio Ribeiro, Wagner Meira Jr."
+  url: "https://cinc.org/archives/2025/pdf/CinC2025-444.pdf"
+  selected: false
+
+- title: "Dense Self-Supervised Learning for Medical Image Segmentation"
+  year: 2024
+  venue: "Medical Imaging with Deep Learning 2024"
+  authors: "Maxime Seince, Loïc Le Folgoc, <strong>Luiz Augusto Facury de Souza</strong>, Elsa Angelini"
+  url: "https://arxiv.org/abs/2407.20395"
+  selected: false
+
+- title: "Multiple-Input Multiple-Output Randomized Fuzzy Cognitive Map Method for High-Dimensional Time Series Forecasting"
+  year: 2024
+  venue: "IEEE Transactions on Fuzzy Systems"
+  authors: "Omid Orang, Hugo Vinicius Bitencourt, <strong>Luiz Augusto Facury de Souza</strong>, Patrícia de Oliveira Lucas, Petrônio C. L. Silva, Frederico Gadelha Guimarães"
+  url: "https://ieeexplore.ieee.org/abstract/document/10480246"
+  selected: false
+
+- title: "Combining Embeddings and Fuzzy Time Series for High-Dimensional Time Series Forecasting in Internet of Energy Applications"
+  year: 2023
+  venue: "Energy"
+  authors: "Hugo Vinicius Bitencourt, <strong>Luiz Augusto Facury de Souza</strong>, Matheus Cascalho dos Santos, Rodrigo Silva, Petrônio C. L. Silva, Frederico Gadelha Guimarães"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0360544223004668"
+  selected: false
+
+- title: "An Embedding-Based Non-Stationary Fuzzy Time Series Method for Multiple Output High-Dimensional Multivariate Time Series Forecasting in IoT Applications"
+  year: 2023
+  venue: "Neural Computing and Applications"
+  authors: "Hugo Vinicius Bitencourt, Omid Orang, <strong>Luiz Augusto Facury de Souza</strong>, Petrônio C. L. Silva, Frederico Gadelha Guimarães"
+  url: "https://link.springer.com/article/10.1007/s00521-022-08120-5"
+  selected: false

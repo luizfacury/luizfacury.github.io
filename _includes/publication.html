@@ -1,0 +1,13 @@
+<article class="publication">
+  <div class="publication-year">{{ include.paper.year }}</div>
+  <div class="publication-body">
+    <p class="publication-venue">{{ include.paper.venue | escape }}{% if include.paper.note %} <span class="publication-note">{{ include.paper.note | escape }}</span>{% endif %}</p>
+    <h3><a href="{{ include.paper.url }}">{{ include.paper.title | escape }}</a></h3>
+    <p class="publication-authors">{{ include.paper.authors }}</p>
+    {% if include.paper.description %}<p class="publication-description">{{ include.paper.description | escape }}</p>{% endif %}
+    <div class="publication-links">
+      <a href="{{ include.paper.url }}">Read paper <span aria-hidden="true">↗</span><span class="sr-only">: {{ include.paper.title | escape }}</span></a>
+      {% for link in include.paper.links %}<a href="{{ link.url }}">{{ link.label | escape }} <span aria-hidden="true">↗</span><span class="sr-only">: {{ include.paper.title | escape }}</span></a>{% endfor %}
+    </div>
+  </div>
+</article>
